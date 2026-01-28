@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://cheuknang.asia/sitemap.xml
+Sitemap: https://cheuknang.asia/sitemap.rss
