@@ -187,3 +187,73 @@ PORTFOLIO['Victoria Peak, an iconic landmark in Hong Kong, offers a breathtaking
 
 REPORTS['<p style="font-size:1.06rem;line-height:1.65;max-width:62ch;">Financial reports, results announcements and regulatory filings for <strong>Cheuk Nang (Holdings) Limited</strong> &mdash; Hong Kong Stock Exchange stock code <strong>0131</strong>.</p>'] = (
     '<p style="font-size:1.06rem;line-height:1.65;max-width:62ch;"><strong>卓能（控股）有限公司</strong>的財務報告、業績公告及監管文件 &mdash; 香港聯合交易所股份代號 <strong>0131</strong>。</p>')
+
+NEWVILLACECIL = {
+    'New Villa Cecil': '新趙苑',
+    'Other projects': '其他項目',
+    'Let’s work together on your next move': '讓我們攜手，共創您的下一步',
+    '🌊 Discover Your Dream Seaside Retreat! 🌊': '🌊 發掘您夢寐以求的海濱居所！🌊',
+    'Introducing an exquisite three-bedroom villa nestled along the serene coastline, where luxury meets the tranquility of the sea. This stunning villa offers the perfect blend of comfort, elegance, and breathtaking ocean views.':
+        '為您呈獻一座坐落於寧靜海岸線的精緻三房別墅，讓奢華與大海的靜謐完美交融。這座迷人的別墅將舒適、優雅與懾人的海景融為一體。',
+    '🏡 Key Features:': '🏡 主要特色：',
+    '🌅 Experience the Magic:': '🌅 感受這份魔力：',
+    'Our staff are here to help you when you are next house hunting.': '當您下次物色居所時，我們的團隊樂意為您提供協助。',
+    'New Villa Cecil bedroom space': '新趙苑睡房空間',
+    'exterior of Villas 5, 6, 7': '5、6、7號別墅外觀',
+    'ensuite bedroom': '套房睡房',
+    'kitchen': '廚房',
+    'seaview room': '海景房',
+    'Sitting Room space': '起居室空間',
+    'Living Room space': '客廳空間',
+    'Villa Cecil Phase III': '趙苑第三期',
+    'One Kowloon Peak': '壹號九龍山頂',
+    'Spacious 3-bedroom layout, ideal for families or groups.': '寬敞的三房間隔，適合家庭或多人同住。',
+    'Open-plan living area with floor-to-ceiling windows, framing the panoramic sea view.': '開放式客廳配落地大窗，將全海景盡收眼底。',
+    'Fully equipped modern kitchen, designed for gourmet meals with a view.': '設備齊全的現代化廚房，讓您可邊賞海景邊烹調美饌。',
+    'Private outdoor terrace, perfect for al fresco dining under the stars.': '私人戶外露台，最適合於星空下享受戶外用餐。',
+    'Luxurious master suite with an ensuite bathroom and direct access to the terrace.': '豪華主人套房設有獨立浴室，並可直達露台。',
+    'Wake up to the sound of waves and the first light of dawn over the horizon.': '在海浪聲與地平線上的第一縷晨光中醒來。',
+    'Enjoy direct access to a pristine beach, just steps away from your villa.': '別墅僅數步之遙，即可直達潔淨無瑕的海灘。',
+    'Relax by the pool, surrounded by lush tropical landscaping.': '在泳池畔放鬆身心，四周綠意盎然的熱帶園景環抱。',
+    'Explore nearby coastal trails, perfect for morning jogs or sunset strolls.': '探索鄰近的海岸步道，最適合晨跑或黃昏漫步。',
+    'Indulge in the local cuisine at nearby seaside restaurants.': '於鄰近的海濱餐廳盡享地道美食。',
+    'VISIT socials': '瀏覽社交平台',
+    'VIEW PORTFOLIO': '瀏覽發展項目',
+    'Learn More': '了解更多',
+}
+
+NEWS = {
+    'News &amp; Opinions': '新聞及觀點',
+    'News & Opinions': '新聞及觀點',
+    'Why Risk Management and VUCA are your friends': '為何風險管理與 VUCA 是您的良伴',
+    'Annual Report 2025': '二零二五年年報',
+    'Annual Report 2024': '二零二四年年報',
+    'Interim Results for December 2024': '二零二四年十二月中期業績',
+    'For Christmas': '聖誕獻辭',
+    'Results for the year ended 30 June 2024 截至二零二四年六月三十日止年度業績報告': '截至二零二四年六月三十日止年度業績報告',
+    'Notice of Annual General Meeting 股東週年大會通告': '股東週年大會通告',
+    'Interim Results for the six months ended 31 December 2023': '截至二零二三年十二月三十一日止六個月中期業績',
+    'Read More »Positive Profit Alert': '閱讀更多 »正面盈利預告',
+    'Read More »Investing in volatile times (Part 2)': '閱讀更多 »於波動時代投資（第二部）',
+    'Positive Profit Alert': '正面盈利預告',
+    'Investing in volatile times (Part 2)': '於波動時代投資（第二部）',
+    'Ji 🍊 our vice-chairman speaks to investors on risk and returns.': 'Ji 🍊 我們的副主席與投資者暢談風險與回報。',
+    'The annual report for the financial year ended 30 June 2025 is provided here for general information. The report is also available on the Hong Kong Stock Exchange website here.':
+        '截至二零二五年六月三十日止財政年度的年報謹供參考，該報告亦已於香港聯合交易所網站提供。',
+    'A board meeting was held in February 2025 to approve the interim results for 2024. More information on Cheuk Nang Group announcements can also be found at the HKEX website here. Announcements and Notices – [Dividend or Distribution (Announcement Form)]':
+        '董事會已於二零二五年二月召開會議，批准二零二四年度中期業績。有關卓能集團公告的更多資料，亦可於香港交易所網站查閱。公告及通告 —［股息或分派（公告表格）］',
+    'Annual Report for the Group for the period ended 30 June 2024': '本集團截至二零二四年六月三十日止期間的年報',
+    'Chairman’s statement, results and dividend for year ended 30 June 2024. Also available at the Hong Kong Stock Exchange website.':
+        '截至二零二四年六月三十日止年度的主席報告書、業績及股息，亦可於香港聯合交易所網站查閱。',
+    'Also available at the Hong Kong Stock Exchange website by searching listed company information from Cheuk Nang Holdings Stock Code 00131.':
+        '亦可於香港聯合交易所網站，透過搜尋卓能控股（股份代號 00131）的上市公司資料查閱。',
+    'Next »': '下一頁 »',
+    'by Delphi Tou': '作者：Delphi Tou',
+    'by Ras Asad': '作者：Ras Asad',
+}
+
+# --- fixes: strings missed on first pass (NVC intro + news bylines) ---
+NEWVILLACECIL['<p style="font-size:22px">Cheung Chau, an enchanting outlying island in Hong Kong, is a serene escape from the city’s bustling pace. Its beauty lies in its quaint, narrow lanes adorned with vibrant bougainvillea, traditional Chinese architecture, and the absence of vehicles, creating a peaceful retreat. The island’s natural allure is further enhanced by its stunning beaches, such as Tung Wan and Kwun Yam, where crystal-clear waters and fine sand invite relaxation. The iconic Pak Tai Temple, with its intricate designs and spiritual significance, adds a layer of cultural richness. Cheung Chau’s charm is also felt during its famous Bun Festival, where the community comes together in a vibrant display of tradition and unity. The island’s harmonious blend of natural beauty, cultural heritage, and community spirit makes it a captivating destination for both locals and visitors seeking a tranquil retreat.</p>'] = (
+    '<p style="font-size:22px">長洲是香港一座迷人的離島，是遠離都市繁囂的寧靜避風港。其魅力在於古雅狹窄的小巷、燦爛盛放的簕杜鵑、傳統的中式建築，以及全島無車的靜謐氛圍。島上迷人的沙灘——如東灣及觀音灣——碧波清澈、幼沙細軟，令人流連忘返，更為其自然魅力增色不少。標誌性的北帝廟以其精緻的設計與宗教意義，為小島增添一層文化底蘊。每逢著名的太平清醮，社區更凝聚一堂，盡展傳統與團結的活力。長洲將自然之美、文化傳承與社區精神和諧共融，是本地居民與旅客尋覓寧靜的迷人勝地。</p>')
+
+NEWS['by <a href="/author/'] = '作者：<a href="/author/'

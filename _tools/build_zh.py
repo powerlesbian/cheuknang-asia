@@ -102,13 +102,16 @@ def _inject_switcher(t, href, label):
     return t
 
 if __name__ == '__main__':
-    from zh_content import HOME, ABOUTUS, CONTACT, PORTFOLIO, REPORTS
+    from zh_content import (HOME, ABOUTUS, CONTACT, PORTFOLIO, REPORTS,
+                            NEWVILLACECIL, NEWS)
     pages = [
-        ('',           HOME,      '卓能集團 — 於亞洲築建安居樂業之所'),
-        ('about-us',   ABOUTUS,   '關於我們 — 卓能集團'),
-        ('contact-us', CONTACT,   '聯絡我們 — 卓能集團'),
-        ('portfolio',  PORTFOLIO, '發展項目 — 卓能集團'),
-        ('reports',    REPORTS,   '業績及公告 — 卓能集團'),
+        ('',                HOME,          '卓能集團 — 於亞洲築建安居樂業之所'),
+        ('about-us',        ABOUTUS,       '關於我們 — 卓能集團'),
+        ('contact-us',      CONTACT,       '聯絡我們 — 卓能集團'),
+        ('portfolio',       PORTFOLIO,     '發展項目 — 卓能集團'),
+        ('reports',         REPORTS,       '業績及公告 — 卓能集團'),
+        ('new-villa-cecil', NEWVILLACECIL, '新趙苑 — 卓能集團'),
+        ('news',            NEWS,          '新聞及觀點 — 卓能集團'),
     ]
     for slug, cmap, title in pages:
         print('built', build(slug, cmap, title))
