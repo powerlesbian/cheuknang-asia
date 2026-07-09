@@ -257,3 +257,9 @@ NEWVILLACECIL['<p style="font-size:22px">Cheung Chau, an enchanting outlying isl
     '<p style="font-size:22px">長洲是香港一座迷人的離島，是遠離都市繁囂的寧靜避風港。其魅力在於古雅狹窄的小巷、燦爛盛放的簕杜鵑、傳統的中式建築，以及全島無車的靜謐氛圍。島上迷人的沙灘——如東灣及觀音灣——碧波清澈、幼沙細軟，令人流連忘返，更為其自然魅力增色不少。標誌性的北帝廟以其精緻的設計與宗教意義，為小島增添一層文化底蘊。每逢著名的太平清醮，社區更凝聚一堂，盡展傳統與團結的活力。長洲將自然之美、文化傳承與社區精神和諧共融，是本地居民與旅客尋覓寧靜的迷人勝地。</p>')
 
 NEWS['by <a href="/author/'] = '作者：<a href="/author/'
+
+# --- Villa Cecil phasing clarified 2026-07-09 ---
+PORTFOLIO['Villa Cecil Phase II is located at 192 Victoria Road, entered through the main vehicular gate at 200 Victoria Road (Phase I). It is a quaint enclave of luxury apartments in three low-density four-storey blocks, with larger flats up to five-bedroom.'] = '趙苑第二期位於域多利道192號，經域多利道200號（第一期）的主要車輛閘口進出，由三幢低密度（四層）大廈組成，是一處靜謐雅致的豪華住宅小區，並提供最大達五房的較大戶型。'
+PORTFOLIO['Villa Cecil Phase III is located at 216 Victoria Road, with its own road entrance, offering full sea-view units ranging from studio to four-bedroom.'] = '趙苑第三期位於域多利道216號，設有獨立道路入口，提供由開放式至四房的全海景單位。'
+PORTFOLIO['<p class="has-text-align-center" style="font-size:.92rem;line-height:1.65;color:#333;"><strong>Location:</strong> 192 Victoria Road, Hong Kong Island (gate entrance at 200 Victoria Road) · <strong>Development:</strong> three low-density four-storey blocks · <strong>Units:</strong> apartments up to five-bedroom</p>'] = '<p class="has-text-align-center" style="font-size:.92rem;line-height:1.65;color:#333;"><strong>位置：</strong> 香港島域多利道192號（經200號閘口進出） · <strong>發展：</strong> 三幢低密度四層大廈 · <strong>單位：</strong> 戶型最大達五房</p>'
+PORTFOLIO['<p class="has-text-align-center" style="font-size:.92rem;line-height:1.65;color:#333;"><strong>Location:</strong> 216 Victoria Road, Hong Kong Island (its own road entrance) · <strong>Units:</strong> full sea-view, studio to four-bedroom</p>'] = '<p class="has-text-align-center" style="font-size:.92rem;line-height:1.65;color:#333;"><strong>位置：</strong> 香港島域多利道216號（設有獨立道路入口） · <strong>單位：</strong> 全海景，開放式至四房</p>'
